@@ -4,15 +4,15 @@ A full-stack web application designed for travelers to explore, review, and shar
 Live Demo: https://sumit-wanderlust-project-major.onrender.com/listings
 
 # Table of Contents
-Introduction
-Features
-Technologies
-Installation
-Usage
-Screenshots
-Contributing
-License
-Acknowledgements
+1.Introduction
+2.Features
+3.Technologies
+4.Installation
+5.Usage
+6.Screenshots
+7.Contributing
+8.License
+9.Acknowledgements
 
 # Introduction
 Wanderlust is a platform built for travel enthusiasts to discover new places, leave reviews, and interact with other users. It integrates a user-friendly interface with a secure back-end to ensure smooth navigation and interaction.
